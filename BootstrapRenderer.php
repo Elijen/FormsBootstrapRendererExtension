@@ -19,7 +19,7 @@ use Nette\Utils\Html;
  * Created with twitter bootstrap in mind.
  *
  * Usage:
- * $form->addRenderer(new Kdyby\Extension\Forms\BootstrapRenderer\BootstrapRenderer);
+ * $form->setRenderer(new Kdyby\Extension\Forms\BootstrapRenderer\BootstrapRenderer);
  *
  * @author Pavel Ptacek
  * @author Filip Procházka
